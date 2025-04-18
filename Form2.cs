@@ -46,7 +46,7 @@ namespace DANG_NHAP
 
         private void tHOÁTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
             f1.Show();
         }
 

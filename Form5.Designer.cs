@@ -29,6 +29,24 @@
         private void InitializeComponent()
         {
             groupBoxMuonTraSach = new GroupBox();
+            button14 = new Button();
+            button13 = new Button();
+            button12 = new Button();
+            button11 = new Button();
+            button10 = new Button();
+            dataGridView2 = new DataGridView();
+            richTextBox2 = new RichTextBox();
+            dateTimePicker5 = new DateTimePicker();
+            dateTimePicker4 = new DateTimePicker();
+            textBox6 = new TextBox();
+            textBox7 = new TextBox();
+            textBox5 = new TextBox();
+            label27 = new Label();
+            label26 = new Label();
+            label25 = new Label();
+            label24 = new Label();
+            label23 = new Label();
+            label13 = new Label();
             label11 = new Label();
             groupBoxTheThuVien = new GroupBox();
             button9 = new Button();
@@ -80,20 +98,218 @@
             label17 = new Label();
             label18 = new Label();
             groupBoxThongKe = new GroupBox();
+            label30 = new Label();
+            button17 = new Button();
+            dataGridView3 = new DataGridView();
+            button16 = new Button();
+            button15 = new Button();
+            label29 = new Label();
+            checkBox3 = new CheckBox();
+            checkBox2 = new CheckBox();
+            checkBox1 = new CheckBox();
+            label28 = new Label();
+            button18 = new Button();
             groupBoxMuonTraSach.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
             groupBoxTheThuVien.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             groupBox1.SuspendLayout();
+            groupBoxThongKe.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView3).BeginInit();
             SuspendLayout();
             // 
             // groupBoxMuonTraSach
             // 
+            groupBoxMuonTraSach.Controls.Add(button18);
+            groupBoxMuonTraSach.Controls.Add(button14);
+            groupBoxMuonTraSach.Controls.Add(button13);
+            groupBoxMuonTraSach.Controls.Add(button12);
+            groupBoxMuonTraSach.Controls.Add(button11);
+            groupBoxMuonTraSach.Controls.Add(button10);
+            groupBoxMuonTraSach.Controls.Add(dataGridView2);
+            groupBoxMuonTraSach.Controls.Add(richTextBox2);
+            groupBoxMuonTraSach.Controls.Add(dateTimePicker5);
+            groupBoxMuonTraSach.Controls.Add(dateTimePicker4);
+            groupBoxMuonTraSach.Controls.Add(textBox6);
+            groupBoxMuonTraSach.Controls.Add(textBox7);
+            groupBoxMuonTraSach.Controls.Add(textBox5);
+            groupBoxMuonTraSach.Controls.Add(label27);
+            groupBoxMuonTraSach.Controls.Add(label26);
+            groupBoxMuonTraSach.Controls.Add(label25);
+            groupBoxMuonTraSach.Controls.Add(label24);
+            groupBoxMuonTraSach.Controls.Add(label23);
+            groupBoxMuonTraSach.Controls.Add(label13);
             groupBoxMuonTraSach.Controls.Add(label11);
-            groupBoxMuonTraSach.Location = new Point(1085, 766);
+            groupBoxMuonTraSach.Location = new Point(3, 8);
             groupBoxMuonTraSach.Name = "groupBoxMuonTraSach";
-            groupBoxMuonTraSach.Size = new Size(970, 603);
+            groupBoxMuonTraSach.Size = new Size(1031, 726);
             groupBoxMuonTraSach.TabIndex = 0;
             groupBoxMuonTraSach.TabStop = false;
+            groupBoxMuonTraSach.Visible = false;
+            // 
+            // button14
+            // 
+            button14.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button14.ForeColor = Color.Blue;
+            button14.Location = new Point(461, 169);
+            button14.Name = "button14";
+            button14.Size = new Size(94, 29);
+            button14.TabIndex = 1;
+            button14.Text = "Thoát";
+            button14.UseVisualStyleBackColor = true;
+            button14.Click += button13_Click;
+            // 
+            // button13
+            // 
+            button13.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button13.ForeColor = Color.Blue;
+            button13.Location = new Point(349, 169);
+            button13.Name = "button13";
+            button13.Size = new Size(94, 29);
+            button13.TabIndex = 1;
+            button13.Text = "Xóa";
+            button13.UseVisualStyleBackColor = true;
+            button13.Click += button13_Click;
+            // 
+            // button12
+            // 
+            button12.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button12.ForeColor = Color.Blue;
+            button12.Location = new Point(236, 169);
+            button12.Name = "button12";
+            button12.Size = new Size(94, 29);
+            button12.TabIndex = 1;
+            button12.Text = "Thay đổi";
+            button12.UseVisualStyleBackColor = true;
+            // 
+            // button11
+            // 
+            button11.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button11.ForeColor = Color.Blue;
+            button11.Location = new Point(126, 169);
+            button11.Name = "button11";
+            button11.Size = new Size(94, 29);
+            button11.TabIndex = 1;
+            button11.Text = "Sửa";
+            button11.UseVisualStyleBackColor = true;
+            // 
+            // button10
+            // 
+            button10.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button10.ForeColor = Color.Blue;
+            button10.Location = new Point(16, 169);
+            button10.Name = "button10";
+            button10.Size = new Size(94, 29);
+            button10.TabIndex = 1;
+            button10.Text = "Thêm";
+            button10.UseVisualStyleBackColor = true;
+            // 
+            // dataGridView2
+            // 
+            dataGridView2.AllowUserToOrderColumns = true;
+            dataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView2.Location = new Point(6, 240);
+            dataGridView2.Name = "dataGridView2";
+            dataGridView2.RowHeadersWidth = 51;
+            dataGridView2.Size = new Size(1019, 479);
+            dataGridView2.TabIndex = 6;
+            // 
+            // richTextBox2
+            // 
+            richTextBox2.Location = new Point(710, 66);
+            richTextBox2.Name = "richTextBox2";
+            richTextBox2.Size = new Size(315, 132);
+            richTextBox2.TabIndex = 5;
+            richTextBox2.Text = "";
+            // 
+            // dateTimePicker5
+            // 
+            dateTimePicker5.Location = new Point(408, 102);
+            dateTimePicker5.Name = "dateTimePicker5";
+            dateTimePicker5.Size = new Size(213, 27);
+            dateTimePicker5.TabIndex = 4;
+            // 
+            // dateTimePicker4
+            // 
+            dateTimePicker4.Location = new Point(117, 101);
+            dateTimePicker4.Name = "dateTimePicker4";
+            dateTimePicker4.Size = new Size(213, 27);
+            dateTimePicker4.TabIndex = 4;
+            // 
+            // textBox6
+            // 
+            textBox6.Location = new Point(265, 69);
+            textBox6.Name = "textBox6";
+            textBox6.Size = new Size(217, 27);
+            textBox6.TabIndex = 3;
+            // 
+            // textBox7
+            // 
+            textBox7.Location = new Point(521, 72);
+            textBox7.Name = "textBox7";
+            textBox7.Size = new Size(122, 27);
+            textBox7.TabIndex = 2;
+            // 
+            // textBox5
+            // 
+            textBox5.Location = new Point(77, 69);
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(122, 27);
+            textBox5.TabIndex = 2;
+            // 
+            // label27
+            // 
+            label27.AutoSize = true;
+            label27.Location = new Point(649, 76);
+            label27.Name = "label27";
+            label27.Size = new Size(55, 20);
+            label27.TabIndex = 1;
+            label27.Text = "Địa chỉ";
+            // 
+            // label26
+            // 
+            label26.AutoSize = true;
+            label26.Location = new Point(336, 106);
+            label26.Name = "label26";
+            label26.Size = new Size(66, 20);
+            label26.TabIndex = 1;
+            label26.Text = "Ngày trả";
+            // 
+            // label25
+            // 
+            label25.AutoSize = true;
+            label25.Location = new Point(24, 101);
+            label25.Name = "label25";
+            label25.Size = new Size(87, 20);
+            label25.TabIndex = 1;
+            label25.Text = "Ngày mượn";
+            // 
+            // label24
+            // 
+            label24.AutoSize = true;
+            label24.Location = new Point(488, 75);
+            label24.Name = "label24";
+            label24.Size = new Size(36, 20);
+            label24.TabIndex = 1;
+            label24.Text = "SĐT";
+            // 
+            // label23
+            // 
+            label23.AutoSize = true;
+            label23.Location = new Point(205, 72);
+            label23.Name = "label23";
+            label23.Size = new Size(54, 20);
+            label23.TabIndex = 1;
+            label23.Text = "Họ tên";
+            // 
+            // label13
+            // 
+            label13.AutoSize = true;
+            label13.Location = new Point(22, 69);
+            label13.Name = "label13";
+            label13.Size = new Size(55, 20);
+            label13.TabIndex = 1;
+            label13.Text = "Mã thẻ";
             // 
             // label11
             // 
@@ -134,11 +350,12 @@
             groupBoxTheThuVien.Controls.Add(label5);
             groupBoxTheThuVien.Controls.Add(label2);
             groupBoxTheThuVien.Controls.Add(label1);
-            groupBoxTheThuVien.Location = new Point(1445, 35);
+            groupBoxTheThuVien.Location = new Point(1442, 61);
             groupBoxTheThuVien.Name = "groupBoxTheThuVien";
             groupBoxTheThuVien.Size = new Size(979, 706);
             groupBoxTheThuVien.TabIndex = 0;
             groupBoxTheThuVien.TabStop = false;
+            groupBoxTheThuVien.Visible = false;
             // 
             // button9
             // 
@@ -199,6 +416,7 @@
             button4.TabIndex = 27;
             button4.Text = "Thoát";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
@@ -383,11 +601,12 @@
             groupBox1.Controls.Add(label16);
             groupBox1.Controls.Add(label17);
             groupBox1.Controls.Add(label18);
-            groupBox1.Location = new Point(74, 25);
+            groupBox1.Location = new Point(1365, 269);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(783, 445);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
+            groupBox1.Visible = false;
             // 
             // rtb_sachmuon
             // 
@@ -416,6 +635,7 @@
             button8.TabIndex = 7;
             button8.Text = "Quay lại";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // button7
             // 
@@ -580,17 +800,139 @@
             // 
             // groupBoxThongKe
             // 
-            groupBoxThongKe.Location = new Point(23, 896);
+            groupBoxThongKe.Controls.Add(label30);
+            groupBoxThongKe.Controls.Add(button17);
+            groupBoxThongKe.Controls.Add(dataGridView3);
+            groupBoxThongKe.Controls.Add(button16);
+            groupBoxThongKe.Controls.Add(button15);
+            groupBoxThongKe.Controls.Add(label29);
+            groupBoxThongKe.Controls.Add(checkBox3);
+            groupBoxThongKe.Controls.Add(checkBox2);
+            groupBoxThongKe.Controls.Add(checkBox1);
+            groupBoxThongKe.Controls.Add(label28);
+            groupBoxThongKe.Location = new Point(1283, 478);
             groupBoxThongKe.Name = "groupBoxThongKe";
-            groupBoxThongKe.Size = new Size(646, 405);
+            groupBoxThongKe.Size = new Size(1091, 622);
             groupBoxThongKe.TabIndex = 0;
             groupBoxThongKe.TabStop = false;
+            groupBoxThongKe.Visible = false;
+            // 
+            // label30
+            // 
+            label30.AutoSize = true;
+            label30.Location = new Point(17, 127);
+            label30.Name = "label30";
+            label30.Size = new Size(192, 20);
+            label30.TabIndex = 6;
+            label30.Text = "Thông tin về tình trạng sách";
+            // 
+            // button17
+            // 
+            button17.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button17.Location = new Point(954, 283);
+            button17.Name = "button17";
+            button17.Size = new Size(94, 99);
+            button17.TabIndex = 5;
+            button17.Text = "In";
+            button17.UseVisualStyleBackColor = true;
+            // 
+            // dataGridView3
+            // 
+            dataGridView3.AllowUserToOrderColumns = true;
+            dataGridView3.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView3.Location = new Point(17, 150);
+            dataGridView3.Name = "dataGridView3";
+            dataGridView3.RowHeadersWidth = 51;
+            dataGridView3.Size = new Size(884, 454);
+            dataGridView3.TabIndex = 4;
+            // 
+            // button16
+            // 
+            button16.Location = new Point(897, 74);
+            button16.Name = "button16";
+            button16.Size = new Size(94, 29);
+            button16.TabIndex = 3;
+            button16.Text = "Thoát";
+            button16.UseVisualStyleBackColor = true;
+            button16.Click += button16_Click;
+            // 
+            // button15
+            // 
+            button15.Location = new Point(782, 74);
+            button15.Name = "button15";
+            button15.Size = new Size(94, 29);
+            button15.TabIndex = 3;
+            button15.Text = "Thông tin";
+            button15.UseVisualStyleBackColor = true;
+            // 
+            // label29
+            // 
+            label29.AutoSize = true;
+            label29.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label29.Location = new Point(38, 46);
+            label29.Name = "label29";
+            label29.Size = new Size(73, 20);
+            label29.TabIndex = 2;
+            label29.Text = "Phân loại";
+            // 
+            // checkBox3
+            // 
+            checkBox3.AutoSize = true;
+            checkBox3.Location = new Point(578, 75);
+            checkBox3.Name = "checkBox3";
+            checkBox3.Size = new Size(179, 24);
+            checkBox3.TabIndex = 1;
+            checkBox3.Text = "Sách chưa được mượn";
+            checkBox3.UseVisualStyleBackColor = true;
+            // 
+            // checkBox2
+            // 
+            checkBox2.AutoSize = true;
+            checkBox2.Location = new Point(264, 75);
+            checkBox2.Name = "checkBox2";
+            checkBox2.Size = new Size(303, 24);
+            checkBox2.TabIndex = 1;
+            checkBox2.Text = "Sách được mượn trong thời gian vừa qua";
+            checkBox2.UseVisualStyleBackColor = true;
+            // 
+            // checkBox1
+            // 
+            checkBox1.AutoSize = true;
+            checkBox1.Location = new Point(84, 76);
+            checkBox1.Name = "checkBox1";
+            checkBox1.Size = new Size(158, 24);
+            checkBox1.TabIndex = 1;
+            checkBox1.Text = "Sách cũ, hỏng, móc";
+            checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // label28
+            // 
+            label28.AutoSize = true;
+            label28.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label28.ForeColor = Color.Red;
+            label28.Location = new Point(403, 23);
+            label28.Name = "label28";
+            label28.Size = new Size(306, 23);
+            label28.TabIndex = 0;
+            label28.Text = "THỐNG KÊ TÌNH TRẠNG SÁCH";
+            // 
+            // button18
+            // 
+            button18.Font = new Font("Microsoft Sans Serif", 7.8F, FontStyle.Bold);
+            button18.ForeColor = Color.Blue;
+            button18.Location = new Point(571, 169);
+            button18.Name = "button18";
+            button18.Size = new Size(94, 29);
+            button18.TabIndex = 1;
+            button18.Text = "In";
+            button18.UseVisualStyleBackColor = true;
+            button18.Click += button18_Click;
             // 
             // Form5
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1530, 927);
+            ClientSize = new Size(1691, 738);
             Controls.Add(groupBoxMuonTraSach);
             Controls.Add(groupBoxThongKe);
             Controls.Add(groupBox1);
@@ -599,11 +941,15 @@
             Text = "THƯ VIỆN";
             groupBoxMuonTraSach.ResumeLayout(false);
             groupBoxMuonTraSach.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
             groupBoxTheThuVien.ResumeLayout(false);
             groupBoxTheThuVien.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            groupBoxThongKe.ResumeLayout(false);
+            groupBoxThongKe.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView3).EndInit();
             ResumeLayout(false);
         }
 
@@ -661,5 +1007,34 @@
         private Label label11;
         private RichTextBox rtb_sachmuon;
         private Label label12;
+        private Label label27;
+        private Label label26;
+        private Label label25;
+        private Label label24;
+        private Label label23;
+        private Label label13;
+        private DataGridView dataGridView2;
+        private RichTextBox richTextBox2;
+        private DateTimePicker dateTimePicker5;
+        private DateTimePicker dateTimePicker4;
+        private TextBox textBox6;
+        private TextBox textBox7;
+        private TextBox textBox5;
+        private Button button13;
+        private Button button12;
+        private Button button11;
+        private Button button10;
+        private Button button14;
+        private Button button16;
+        private Button button15;
+        private Label label29;
+        private CheckBox checkBox3;
+        private CheckBox checkBox2;
+        private CheckBox checkBox1;
+        private Label label28;
+        private Label label30;
+        private Button button17;
+        private DataGridView dataGridView3;
+        private Button button18;
     }
 }

@@ -17,6 +17,9 @@ namespace DANG_NHAP
         public Form5(Form3 f3, String groupBoxName)
         {
             InitializeComponent();
+            groupBoxTheThuVien.Location = groupBoxMuonTraSach.Location;
+            groupBoxThongKe.Location = groupBoxMuonTraSach.Location;
+            groupBox1.Location = groupBoxMuonTraSach.Location;
 
             switch (groupBoxName)
             {
@@ -48,6 +51,36 @@ namespace DANG_NHAP
         private void label6_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            f3.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            f3.Show();
+            this.Close();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            groupBox1.Visible = false;
+            groupBoxMuonTraSach.Visible = true;
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            f3.Show();
+            this.Close();
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            groupBox1.Visible = true;
+            groupBoxMuonTraSach.Visible = false;
         }
     }
 }

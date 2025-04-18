@@ -13,6 +13,7 @@ namespace DANG_NHAP
     public partial class Form3 : Form
     {
         private Form1 f1;
+        private Form5 form5;
 
         public Form3(Form1 f1)
         {
@@ -29,22 +30,22 @@ namespace DANG_NHAP
         private void mƯỢNTRẢSÁCHToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form5 f5 = new Form5(this, "MuonTraSach");
+            this.Close();
             f5.Show();
-            this.Hide();
         }
 
         private void tHẺTHƯVIỆNToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form5 f5 = new Form5(this, "TheThuVien");
+            this.Close();
             f5.Show();
-            this.Hide();
         }
 
         private void tHỐNGKÊToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form5 f5 = new Form5(this, "ThongKe");
+            this.Close();
             f5.Show();
-            this.Hide();
         }
     }
 }

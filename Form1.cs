@@ -34,6 +34,9 @@
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Yêu cầu cấp lại mật khẩu của bạn thành công. Một mật khẩu mới đã đc gửi đến số điện thoại(Mail) của bạn. Vui lòng kiểm tra lại và thay đổi mật khẩu mới!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            groupBox1.Visible = true;
+            groupBox2.Visible = false;
+            groupBox3.Visible = false;
         }
 
         private void label10_Click(object sender, EventArgs e)

@@ -19,3 +19,4 @@ D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Properties.Res
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form3.resources
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form4.resources
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form5.resources
+D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG-NHAP.sourcelink.json

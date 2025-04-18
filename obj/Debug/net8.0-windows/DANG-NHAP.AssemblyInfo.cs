@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DANG-NHAP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4fb38c5f20b4eb1b18addd20487499765cd778e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DANG-NHAP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DANG-NHAP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
