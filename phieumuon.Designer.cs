@@ -52,7 +52,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { tRANGCHỦToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(535, 31);
+            menuStrip1.Size = new Size(564, 31);
             menuStrip1.TabIndex = 0;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -67,7 +67,7 @@
             // tHOÁTToolStripMenuItem
             // 
             tHOÁTToolStripMenuItem.Name = "tHOÁTToolStripMenuItem";
-            tHOÁTToolStripMenuItem.Size = new Size(224, 28);
+            tHOÁTToolStripMenuItem.Size = new Size(165, 28);
             tHOÁTToolStripMenuItem.Text = "THOÁT";
             tHOÁTToolStripMenuItem.Click += tHOÁTToolStripMenuItem_Click;
             // 
@@ -177,15 +177,15 @@
             label1.TabIndex = 0;
             label1.Text = "PHIẾU MƯỢN";
             // 
-            // Form4
+            // phieumuon
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(535, 380);
+            ClientSize = new Size(564, 392);
             Controls.Add(groupBox1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
-            Name = "Form4";
+            Name = "phieumuon";
             Text = "THƯ VIỆN";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();

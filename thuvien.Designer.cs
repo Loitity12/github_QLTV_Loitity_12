@@ -48,7 +48,6 @@
             button5 = new Button();
             button2 = new Button();
             numericUpDown1 = new NumericUpDown();
-            button1 = new Button();
             pictureBox1 = new PictureBox();
             label10 = new Label();
             label11 = new Label();
@@ -140,7 +139,6 @@
             groupBox1.Controls.Add(button5);
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(numericUpDown1);
-            groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(pictureBox1);
             groupBox1.Controls.Add(label10);
             groupBox1.Controls.Add(label11);
@@ -254,15 +252,6 @@
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(150, 27);
             numericUpDown1.TabIndex = 3;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(166, 511);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 2;
-            button1.Text = "Thêm ảnh";
-            button1.UseVisualStyleBackColor = true;
             // 
             // pictureBox1
             // 
@@ -428,7 +417,6 @@
         private GroupBox groupBox2;
         private DataGridView dataGridView1;
         private Label label2;
-        private Button button1;
         private PictureBox pictureBox1;
         private Label label10;
         private Label label11;
