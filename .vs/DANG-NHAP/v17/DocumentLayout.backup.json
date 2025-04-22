@@ -1,46 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\",
+  "WorkspaceRootPath": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:thongtinmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:thuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:thongtinmuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\filebt\\detai\\form\\dang-nhap\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|d:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A31D4D5-82E9-498A-8C51-AB2AE2758C37}|DANG-NHAP.csproj|solutionrelative:phieumuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswEYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "dangnhap.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs",
+              "RelativeDocumentMoniker": "dangnhap.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs",
+              "RelativeToolTip": "dangnhap.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T14:13:13.921Z",
               "IsPinned": true,
@@ -68,12 +60,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form4.cs",
-              "RelativeToolTip": "Form4.cs",
+              "DocumentIndex": 4,
+              "Title": "phieumuon.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs",
+              "RelativeDocumentMoniker": "phieumuon.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs",
+              "RelativeToolTip": "phieumuon.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T13:44:35.131Z",
@@ -82,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form3.cs*",
-              "RelativeToolTip": "Form3.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBMAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "thuvien.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs",
+              "RelativeDocumentMoniker": "thuvien.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs",
+              "RelativeToolTip": "thuvien.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wGYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T15:47:08.249Z",
               "IsPinned": true,
@@ -96,31 +88,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwE0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T02:19:26.259Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form5.cs*",
-              "RelativeToolTip": "Form5.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "thongtinmuon.cs",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs",
+              "RelativeDocumentMoniker": "thongtinmuon.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs",
+              "RelativeToolTip": "thongtinmuon.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wD8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T15:03:41.829Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -147,66 +129,52 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form5.cs [Design]*",
-              "RelativeToolTip": "Form5.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T15:03:37.359Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form3.cs [Design]*",
-              "RelativeToolTip": "Form3.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T15:44:08.552Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs",
+              "RelativeDocumentMoniker": "dangnhap.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\dangnhap.cs [Design]",
+              "RelativeToolTip": "dangnhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T14:12:44.565Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form4.cs [Design]",
-              "RelativeToolTip": "Form4.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "thuvien.cs [Design]",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs",
+              "RelativeDocumentMoniker": "thuvien.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thuvien.cs [Design]",
+              "RelativeToolTip": "thuvien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:42:53.021Z"
+              "WhenOpened": "2025-04-14T15:44:08.552Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "D:\\FileBT\\DETAI\\FORM\\DANG-NHAP\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "thongtinmuon.cs [Design]",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs",
+              "RelativeDocumentMoniker": "thongtinmuon.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\thongtinmuon.cs [Design]",
+              "RelativeToolTip": "thongtinmuon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T01:47:07.951Z"
+              "WhenOpened": "2025-04-16T15:03:37.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "phieumuon.cs [Design]",
+              "DocumentMoniker": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs",
+              "RelativeDocumentMoniker": "phieumuon.cs",
+              "ToolTip": "D:\\qu\u1EA3n l\u00FD th\u01B0 vi\u1EC7n\\phieumuon.cs [Design]",
+              "RelativeToolTip": "phieumuon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:42:53.021Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

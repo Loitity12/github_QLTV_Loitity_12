@@ -20,3 +20,25 @@ D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form3.resource
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form4.resources
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG_NHAP.Form5.resources
 D:\FileBT\DETAI\FORM\DANG-NHAP\obj\Debug\net8.0-windows\DANG-NHAP.sourcelink.json
+D:\quản lý thư viện\bin\Debug\net8.0-windows\DANG-NHAP.exe
+D:\quản lý thư viện\bin\Debug\net8.0-windows\DANG-NHAP.deps.json
+D:\quản lý thư viện\bin\Debug\net8.0-windows\DANG-NHAP.runtimeconfig.json
+D:\quản lý thư viện\bin\Debug\net8.0-windows\DANG-NHAP.dll
+D:\quản lý thư viện\bin\Debug\net8.0-windows\DANG-NHAP.pdb
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.Form2.resources
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.Properties.Resources.resources
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.csproj.GenerateResource.cache
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.AssemblyInfoInputs.cache
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.AssemblyInfo.cs
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.csproj.CoreCompileInputs.cache
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.sourcelink.json
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.dll
+D:\quản lý thư viện\obj\Debug\net8.0-windows\refint\DANG-NHAP.dll
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.pdb
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG-NHAP.genruntimeconfig.cache
+D:\quản lý thư viện\obj\Debug\net8.0-windows\ref\DANG-NHAP.dll
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.dangnhap.resources
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.phieumuon.resources
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.thongtinmuon.resources
+D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.thuvien.resources

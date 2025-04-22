@@ -1,6 +1,6 @@
 ﻿namespace DANG_NHAP
 {
-    partial class Form4
+    partial class phieumuon
     {
         /// <summary>
         /// Required designer variable.

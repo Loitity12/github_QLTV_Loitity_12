@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace DANG_NHAP
 {
-    public partial class Form5 : Form
+    public partial class thongtinmuon : Form
     {
-        private Form3 f3;
+        private thuvien f3;
 
-        public Form5(Form3 f3, String groupBoxName)
+        public thongtinmuon(thuvien f3, String groupBoxName)
         {
             InitializeComponent();
             groupBoxTheThuVien.Location = groupBoxMuonTraSach.Location;

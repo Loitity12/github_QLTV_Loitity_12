@@ -1,6 +1,6 @@
 ﻿namespace DANG_NHAP
 {
-    partial class Form5
+    partial class thongtinmuon
     {
         /// <summary>
         /// Required designer variable.

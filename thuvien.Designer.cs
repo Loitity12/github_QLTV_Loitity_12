@@ -1,6 +1,6 @@
 ﻿namespace DANG_NHAP
 {
-    partial class Form3
+    partial class thuvien
     {
         /// <summary>
         /// Required designer variable.
@@ -36,13 +36,13 @@
             tHỐNGKÊToolStripMenuItem = new ToolStripMenuItem();
             tHOÁTToolStripMenuItem = new ToolStripMenuItem();
             groupBox1 = new GroupBox();
-            textBox5 = new TextBox();
-            textBox4 = new TextBox();
-            textBox3 = new TextBox();
-            textBox2 = new TextBox();
-            textBox1 = new TextBox();
-            comboBox2 = new ComboBox();
-            comboBox1 = new ComboBox();
+            tb_namxb = new TextBox();
+            tb_masach = new TextBox();
+            tb_tensach = new TextBox();
+            tb_tacgia = new TextBox();
+            tb_nxb = new TextBox();
+            cbb_tinhtrang = new ComboBox();
+            cbb_theloai = new ComboBox();
             button4 = new Button();
             button3 = new Button();
             button5 = new Button();
@@ -101,40 +101,40 @@
             // mƯỢNTRẢSÁCHToolStripMenuItem
             // 
             mƯỢNTRẢSÁCHToolStripMenuItem.Name = "mƯỢNTRẢSÁCHToolStripMenuItem";
-            mƯỢNTRẢSÁCHToolStripMenuItem.Size = new Size(224, 26);
+            mƯỢNTRẢSÁCHToolStripMenuItem.Size = new Size(219, 26);
             mƯỢNTRẢSÁCHToolStripMenuItem.Text = "MƯỢN TRẢ SÁCH";
             mƯỢNTRẢSÁCHToolStripMenuItem.Click += mƯỢNTRẢSÁCHToolStripMenuItem_Click;
             // 
             // tHẺTHƯVIỆNToolStripMenuItem
             // 
             tHẺTHƯVIỆNToolStripMenuItem.Name = "tHẺTHƯVIỆNToolStripMenuItem";
-            tHẺTHƯVIỆNToolStripMenuItem.Size = new Size(224, 26);
+            tHẺTHƯVIỆNToolStripMenuItem.Size = new Size(219, 26);
             tHẺTHƯVIỆNToolStripMenuItem.Text = "THẺ THƯ VIỆN";
             tHẺTHƯVIỆNToolStripMenuItem.Click += tHẺTHƯVIỆNToolStripMenuItem_Click;
             // 
             // tHỐNGKÊToolStripMenuItem
             // 
             tHỐNGKÊToolStripMenuItem.Name = "tHỐNGKÊToolStripMenuItem";
-            tHỐNGKÊToolStripMenuItem.Size = new Size(224, 26);
+            tHỐNGKÊToolStripMenuItem.Size = new Size(219, 26);
             tHỐNGKÊToolStripMenuItem.Text = "THỐNG KÊ";
             tHỐNGKÊToolStripMenuItem.Click += tHỐNGKÊToolStripMenuItem_Click;
             // 
             // tHOÁTToolStripMenuItem
             // 
             tHOÁTToolStripMenuItem.Name = "tHOÁTToolStripMenuItem";
-            tHOÁTToolStripMenuItem.Size = new Size(224, 26);
+            tHOÁTToolStripMenuItem.Size = new Size(219, 26);
             tHOÁTToolStripMenuItem.Text = "THOÁT";
             tHOÁTToolStripMenuItem.Click += tHOÁTToolStripMenuItem_Click;
             // 
             // groupBox1
             // 
-            groupBox1.Controls.Add(textBox5);
-            groupBox1.Controls.Add(textBox4);
-            groupBox1.Controls.Add(textBox3);
-            groupBox1.Controls.Add(textBox2);
-            groupBox1.Controls.Add(textBox1);
-            groupBox1.Controls.Add(comboBox2);
-            groupBox1.Controls.Add(comboBox1);
+            groupBox1.Controls.Add(tb_namxb);
+            groupBox1.Controls.Add(tb_masach);
+            groupBox1.Controls.Add(tb_tensach);
+            groupBox1.Controls.Add(tb_tacgia);
+            groupBox1.Controls.Add(tb_nxb);
+            groupBox1.Controls.Add(cbb_tinhtrang);
+            groupBox1.Controls.Add(cbb_theloai);
             groupBox1.Controls.Add(button4);
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button5);
@@ -157,56 +157,58 @@
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
             // 
-            // textBox5
+            // tb_namxb
             // 
-            textBox5.Location = new Point(131, 286);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(151, 27);
-            textBox5.TabIndex = 6;
+            tb_namxb.Location = new Point(131, 286);
+            tb_namxb.Name = "tb_namxb";
+            tb_namxb.Size = new Size(151, 27);
+            tb_namxb.TabIndex = 6;
             // 
-            // textBox4
+            // tb_masach
             // 
-            textBox4.Location = new Point(130, 26);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(151, 27);
-            textBox4.TabIndex = 6;
+            tb_masach.Location = new Point(130, 26);
+            tb_masach.Name = "tb_masach";
+            tb_masach.Size = new Size(151, 27);
+            tb_masach.TabIndex = 6;
             // 
-            // textBox3
+            // tb_tensach
             // 
-            textBox3.Location = new Point(131, 64);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(151, 27);
-            textBox3.TabIndex = 6;
+            tb_tensach.Location = new Point(131, 64);
+            tb_tensach.Name = "tb_tensach";
+            tb_tensach.Size = new Size(151, 27);
+            tb_tensach.TabIndex = 6;
             // 
-            // textBox2
+            // tb_tacgia
             // 
-            textBox2.Location = new Point(130, 105);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(151, 27);
-            textBox2.TabIndex = 6;
+            tb_tacgia.Location = new Point(130, 105);
+            tb_tacgia.Name = "tb_tacgia";
+            tb_tacgia.Size = new Size(151, 27);
+            tb_tacgia.TabIndex = 6;
             // 
-            // textBox1
+            // tb_nxb
             // 
-            textBox1.Location = new Point(131, 251);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(151, 27);
-            textBox1.TabIndex = 6;
+            tb_nxb.Location = new Point(131, 251);
+            tb_nxb.Name = "tb_nxb";
+            tb_nxb.Size = new Size(151, 27);
+            tb_nxb.TabIndex = 6;
             // 
-            // comboBox2
+            // cbb_tinhtrang
             // 
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Location = new Point(131, 217);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(151, 28);
-            comboBox2.TabIndex = 5;
+            cbb_tinhtrang.FormattingEnabled = true;
+            cbb_tinhtrang.Items.AddRange(new object[] { "Mới", "Cũ" });
+            cbb_tinhtrang.Location = new Point(131, 217);
+            cbb_tinhtrang.Name = "cbb_tinhtrang";
+            cbb_tinhtrang.Size = new Size(151, 28);
+            cbb_tinhtrang.TabIndex = 5;
             // 
-            // comboBox1
+            // cbb_theloai
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(131, 146);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 5;
+            cbb_theloai.FormattingEnabled = true;
+            cbb_theloai.Items.AddRange(new object[] { "Sách chính trị -pháp luật", "Sách khoa học công nghệ-kinh tế;", "Sách văn học nghệ thuật", "Sách văn hóa xã hội – lịch sử;", "Sách giáo trình", " Sách truyện tiểu thuyết sách tâm lý, tâm linh, tôn giáo", " Sách thiếu nhi " });
+            cbb_theloai.Location = new Point(131, 146);
+            cbb_theloai.Name = "cbb_theloai";
+            cbb_theloai.Size = new Size(151, 28);
+            cbb_theloai.TabIndex = 5;
             // 
             // button4
             // 
@@ -243,6 +245,7 @@
             button2.TabIndex = 4;
             button2.Text = "Thêm";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // numericUpDown1
             // 
@@ -368,6 +371,7 @@
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(813, 593);
             dataGridView1.TabIndex = 1;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // label2
             // 
@@ -390,6 +394,7 @@
             MainMenuStrip = menuStrip1;
             Name = "Form3";
             Text = "THƯ VIỆN";
+            Load += Form3_Load;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             groupBox1.ResumeLayout(false);
@@ -431,13 +436,13 @@
         private Button button2;
         private Button button4;
         private Button button3;
-        private TextBox textBox5;
-        private TextBox textBox4;
-        private TextBox textBox3;
-        private TextBox textBox2;
-        private TextBox textBox1;
-        private ComboBox comboBox2;
-        private ComboBox comboBox1;
+        private TextBox tb_namxb;
+        private TextBox tb_masach;
+        private TextBox tb_tensach;
+        private TextBox tb_tacgia;
+        private TextBox tb_nxb;
+        private ComboBox cbb_tinhtrang;
+        private ComboBox cbb_theloai;
         private Button button5;
     }
 }

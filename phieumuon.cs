@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace DANG_NHAP
 {
-    public partial class Form4 : Form
+    public partial class phieumuon : Form
     {
         private Form2 f2;
-        private Form4 f4;
-        private Form4 form4;
+        private phieumuon f4;
+        private phieumuon form4;
 
-        public Form4(Form2 f2)
+        public phieumuon(Form2 f2)
         {
             InitializeComponent();
             comboBox1.DropDownStyle = ComboBoxStyle.DropDown;
@@ -26,7 +26,7 @@ namespace DANG_NHAP
             comboBox1.Items.Add("21");
         }
 
-        public Form4(Form4 form4)
+        public phieumuon(phieumuon form4)
         {
             this.form4 = form4;
         }
@@ -49,7 +49,7 @@ namespace DANG_NHAP
 
         private void tHOÁTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form4 f4 = new Form4(this);
+            phieumuon f4 = new phieumuon(this);
             this.Hide();
             f2.Show();
         }

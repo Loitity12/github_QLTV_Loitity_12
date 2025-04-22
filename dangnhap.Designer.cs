@@ -1,6 +1,6 @@
 ﻿namespace DANG_NHAP
 {
-    partial class Form1
+    partial class dangnhap
     {
         /// <summary>
         ///  Required designer variable.
@@ -59,8 +59,6 @@
             label13 = new Label();
             label10 = new Label();
             label9 = new Label();
-            radioButton1 = new RadioButton();
-            radioButton2 = new RadioButton();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -68,8 +66,6 @@
             // 
             // groupBox1
             // 
-            groupBox1.Controls.Add(radioButton2);
-            groupBox1.Controls.Add(radioButton1);
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(label5);
@@ -109,7 +105,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(185, 275);
+            label5.Location = new Point(176, 241);
             label5.Name = "label5";
             label5.Size = new Size(224, 20);
             label5.TabIndex = 2;
@@ -119,7 +115,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(220, 243);
+            label4.Location = new Point(211, 209);
             label4.Name = "label4";
             label4.Size = new Size(143, 20);
             label4.TabIndex = 2;
@@ -389,28 +385,6 @@
             label9.TabIndex = 0;
             label9.Text = "ĐĂNG KÍ TÀI KHOẢN";
             // 
-            // radioButton1
-            // 
-            radioButton1.AutoSize = true;
-            radioButton1.Location = new Point(144, 182);
-            radioButton1.Name = "radioButton1";
-            radioButton1.Size = new Size(82, 24);
-            radioButton1.TabIndex = 5;
-            radioButton1.TabStop = true;
-            radioButton1.Text = "Doc gia";
-            radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // radioButton2
-            // 
-            radioButton2.AutoSize = true;
-            radioButton2.Location = new Point(267, 182);
-            radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(96, 24);
-            radioButton2.TabIndex = 5;
-            radioButton2.TabStop = true;
-            radioButton2.Text = "Nhan vien";
-            radioButton2.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -463,7 +437,5 @@
         private Button button4;
         private Button button6;
         private Button button5;
-        private RadioButton radioButton2;
-        private RadioButton radioButton1;
     }
 }

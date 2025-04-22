@@ -1,8 +1,8 @@
 ﻿namespace DANG_NHAP
 {
-    public partial class Form1 : Form
+    public partial class dangnhap : Form
     {
-        public Form1()
+        public dangnhap()
         {
             InitializeComponent();
         }
@@ -66,22 +66,9 @@
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (radioButton1.Checked)
-            {
-                Form2 F2 = new Form2(this);
-                F2.Show();
-                this.Hide();
-            }
-            else if (radioButton2.Checked)
-            {
-                Form3 F3 = new Form3(this);
-                F3.Show();
-                this.Hide();
-            }
-            else
-            {
-                MessageBox.Show("Vui long chon loai tai khoan truoc khi dang nhap!","Thong bao",MessageBoxButtons.OKCancel,MessageBoxIcon.Error );
-            }
+            thuvien f3 = new thuvien(this);
+            this.Hide();
+            f3.Show();
         }
     }
 }

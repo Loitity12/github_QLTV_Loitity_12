@@ -13,10 +13,10 @@ namespace DANG_NHAP
 {
     public partial class Form2 : Form
     {
-        private Form1 f1;
+        private dangnhap f1;
         
 
-        public Form2(Form1 f1)
+        public Form2(dangnhap f1)
         {
             InitializeComponent();
             textBox1.Text = "Bạn muốn tìm gì?";
@@ -74,7 +74,7 @@ namespace DANG_NHAP
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Bạn có chắc chắn muốn mượn quyển sách trên không?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
-            Form4 f4=new Form4(this);
+            phieumuon f4=new phieumuon(this);
             this.Hide();
             f4.Show();
         }
