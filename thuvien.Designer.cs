@@ -203,6 +203,7 @@
             // 
             // cbb_theloai
             // 
+            cbb_theloai.Enabled = false;
             cbb_theloai.FormattingEnabled = true;
             cbb_theloai.Items.AddRange(new object[] { "Sách chính trị -pháp luật", "Sách khoa học công nghệ-kinh tế;", "Sách văn học nghệ thuật", "Sách văn hóa xã hội – lịch sử;", "Sách giáo trình", " Sách truyện tiểu thuyết sách tâm lý, tâm linh, tôn giáo", " Sách thiếu nhi " });
             cbb_theloai.Location = new Point(131, 146);
@@ -382,7 +383,7 @@
             label2.TabIndex = 0;
             label2.Text = "THÔNG TIN SÁCH";
             // 
-            // Form3
+            // thuvien
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -392,7 +393,7 @@
             Controls.Add(label1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
-            Name = "Form3";
+            Name = "thuvien";
             Text = "THƯ VIỆN";
             Load += Form3_Load;
             menuStrip1.ResumeLayout(false);

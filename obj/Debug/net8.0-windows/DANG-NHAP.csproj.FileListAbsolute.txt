@@ -42,3 +42,24 @@ D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.dangnhap.resources
 D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.phieumuon.resources
 D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.thongtinmuon.resources
 D:\quản lý thư viện\obj\Debug\net8.0-windows\DANG_NHAP.thuvien.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG_NHAP.dangnhap.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG_NHAP.phieumuon.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG_NHAP.Properties.Resources.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG_NHAP.thongtinmuon.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG_NHAP.thuvien.resources
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.csproj.GenerateResource.cache
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.AssemblyInfoInputs.cache
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.AssemblyInfo.cs
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.csproj.CoreCompileInputs.cache
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.sourcelink.json
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.dll
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\refint\DANG-NHAP.dll
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.pdb
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\bin\Debug\net8.0-windows\DANG-NHAP.exe
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\bin\Debug\net8.0-windows\DANG-NHAP.deps.json
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\bin\Debug\net8.0-windows\DANG-NHAP.runtimeconfig.json
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\bin\Debug\net8.0-windows\DANG-NHAP.dll
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\bin\Debug\net8.0-windows\DANG-NHAP.pdb
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\DANG-NHAP.genruntimeconfig.cache
+C:\Users\TAN DUONG\Source\Repos\github_QLTV_Loitity_12\obj\Debug\net8.0-windows\ref\DANG-NHAP.dll

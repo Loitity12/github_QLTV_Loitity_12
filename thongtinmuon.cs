@@ -12,9 +12,9 @@ namespace DANG_NHAP
 {
     public partial class thongtinmuon : Form
     {
-        private thuvien f3;
+        //private thuvien f3;
 
-        public thongtinmuon(thuvien f3, String groupBoxName)
+        public thongtinmuon(String groupBoxName)
         {
             InitializeComponent();
             groupBoxTheThuVien.Location = groupBoxMuonTraSach.Location;
@@ -55,12 +55,14 @@ namespace DANG_NHAP
 
         private void button13_Click(object sender, EventArgs e)
         {
+            thuvien f3 = new thuvien();
             f3.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            thuvien f3 = new thuvien();
             f3.Show();
             this.Close();
         }
@@ -73,6 +75,7 @@ namespace DANG_NHAP
 
         private void button16_Click(object sender, EventArgs e)
         {
+            thuvien f3 = new thuvien();
             f3.Show();
             this.Close();
         }

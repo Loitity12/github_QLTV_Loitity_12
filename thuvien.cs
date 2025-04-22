@@ -12,38 +12,39 @@ namespace DANG_NHAP
 {
     public partial class thuvien : Form
     {
-        private dangnhap f1;
+        
         private thongtinmuon form5;
 
-        public thuvien(dangnhap f1)
+        public thuvien()
         {
             InitializeComponent();
-            this.f1 = f1;
+           
         }
 
         private void tHOÁTToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            dangnhap f1 = new dangnhap();
+            this.Close();
             f1.Show();
         }
 
         private void mƯỢNTRẢSÁCHToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            thongtinmuon f5 = new thongtinmuon(this, "MuonTraSach");
+            thongtinmuon f5 = new thongtinmuon("MuonTraSach");
             this.Close();
             f5.Show();
         }
 
         private void tHẺTHƯVIỆNToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            thongtinmuon f5 = new thongtinmuon(this, "TheThuVien");
+            thongtinmuon f5 = new thongtinmuon("TheThuVien");
             this.Close();
             f5.Show();
         }
 
         private void tHỐNGKÊToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            thongtinmuon f5 = new thongtinmuon(this, "ThongKe");
+            thongtinmuon f5 = new thongtinmuon("ThongKe");
             this.Close();
             f5.Show();
         }

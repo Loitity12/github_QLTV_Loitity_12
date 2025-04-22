@@ -12,11 +12,11 @@ namespace DANG_NHAP
 {
     public partial class phieumuon : Form
     {
-        private Form2 f2;
+       
         private phieumuon f4;
         private phieumuon form4;
 
-        public phieumuon(Form2 f2)
+        public phieumuon()
         {
             InitializeComponent();
             comboBox1.DropDownStyle = ComboBoxStyle.DropDown;
@@ -50,8 +50,8 @@ namespace DANG_NHAP
         private void tHOÁTToolStripMenuItem_Click(object sender, EventArgs e)
         {
             phieumuon f4 = new phieumuon(this);
-            this.Hide();
-            f2.Show();
+            this.Close();
+            //f2.Show();
         }
     }
 }
